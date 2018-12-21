@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Loss Less UDP",
+                "projectName": "Loss Less UDP",
+                "workingDirectory": "g:\\dev\\repo\\lludp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Loss Less UDP",
+                "projectName": "Loss Less UDP",
+                "workingDirectory": "g:\\dev\\repo\\lludp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
